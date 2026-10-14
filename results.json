@@ -1,0 +1,12 @@
+{
+  "baseline_zero_shot": {
+    "accuracy": 0.342,
+    "macro_f1": 0.2977011232056802,
+    "invalid_rate": 0.056
+  },
+  "finetuned": {
+    "accuracy": 0.862,
+    "macro_f1": 0.8451336335830325,
+    "invalid_rate": 0.008
+  }
+}
